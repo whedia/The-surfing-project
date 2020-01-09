@@ -1,0 +1,23 @@
+.jumbotron {
+  height: 569px;
+  color: aliceblue;
+  background-image: url(images/image1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0;
+}
+#icon{
+  font-size: 80px;
+  margin: 20px;
+}
+#image{
+  height: 350px;
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
+.text-left{
+  padding-left: 20px;
+}
+
+
